@@ -1,4 +1,4 @@
-Zadaniem programu jest umożliwienie segregowania plików. Program powinien:
+Zadaniem programu jest umożliwienie segregowanie plików. Program powinien:
 Stworzyć strukturę katalogów:
 
 HOME
